@@ -3,7 +3,8 @@ Mobile app for checking the current price of bitcoin in different currencies.
 
 
 LIGHT MODE
-https://user-images.githubusercontent.com/72377506/179848160-78fdacde-2655-4508-8399-965f459a78ad.mp4
+![RPReplay_Final1658264403](https://user-images.githubusercontent.com/72377506/179849254-96b83a89-7fd4-4b77-ba83-b4b4c285d5f4.gif)
+
 
 
 DARK MODE
